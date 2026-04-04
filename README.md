@@ -4,5 +4,5 @@ Contains files relevant to the Master's Thesis of Alex Korocencev titled "Design
 Sorted in 4 folders:
 > 3D CAD Renders, 
 > Arduino Codes, 
-> COMSOL Multiphysics simulation files (deleted computed datasets, so that the file size does not exceed 100 MB), 
+> COMSOL Multiphysics simulation files (deleted computed datasets, solutions and meshes. Files include geometric setup, physics setup, custon parameters and result plotting pipeline). 
 > Python Scripts
